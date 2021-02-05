@@ -26,25 +26,25 @@ Como cualquier proyecto de Data Science, la creación del modelo empieza por ent
 
 ## Fase 2
 ### Modelado de Series Temporales
-Entrenamiento y Validación en Series Temporales
-  Walkforward Validations
-  Métricas de validación (MAE, MAPE, RMSE, MDA)
-Modelos tradicionales 
-  ARIMAX (SARIMAX), prophet
-  Creación de variables step, impulso y lidiar con outliers
-Modelado de Series Temporales con Redes Neuronales
-  LSTM
-  
+    Entrenamiento y Validación en Series Temporales
+      Walkforward Validations
+      Métricas de validación (MAE, MAPE, RMSE, MDA)
+    Modelos tradicionales 
+      ARIMAX (SARIMAX), prophet
+      Creación de variables step, impulso y lidiar con outliers
+    Modelado de Series Temporales con Redes Neuronales
+      LSTM
+
 ## Fase 3
 ### Aplicabilidad de modelos
-Teoría de los mercados eficientes
-Simuladores
-  Importancia relativa de variables
-  Identificación de varianza base vs variable
+    Teoría de los mercados eficientes
+    Simuladores
+      Importancia relativa de variables
+      Identificación de varianza base vs variable
 
 
 
 ## Requierements
-statsmodels == '0.10.1'
-tensorflow == '1.15.0'
-keras == '1.2.0'
+    statsmodels == '0.10.1'
+    tensorflow == '1.15.0'
+    keras == '1.2.0'
