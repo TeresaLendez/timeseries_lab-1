@@ -10,19 +10,19 @@ Laboratorio de Series Temporales para Tinámica
 Como cualquier proyecto de Data Science, la creación del modelo empieza por entender los datos, pero dado que tenemos una componente temporal, necesitamos información adicional.
 ## Fase 1
 ### Creación y Análisis de Series Temporales
-Creación de Series Temporales
-Elección fuentes
-Elección de Resolución temporal
-Descomposición de Series
-Tendencia
-Estacionalidad
-Ruido
-Análisis de las Series
-Tests (ACF & PACF, ADF, etc…)
-Cross Correlations
-Transformación de Series Temporales
-Logaritmos, Diferencias y Normalizaciones
-Medias Móviles
+    Creación de Series Temporales
+        Elección fuentes
+        Elección de Resolución temporal
+    Descomposición de Series
+        Tendencia
+        Estacionalidad
+        Ruido
+    Análisis de las Series
+        Tests (ACF & PACF, ADF, etc…)
+        Cross Correlations
+    Transformación de Series Temporales
+        Logaritmos, Diferencias y Normalizaciones
+        Medias Móviles
 
 ## Fase 2
 ### Modelado de Series Temporales
