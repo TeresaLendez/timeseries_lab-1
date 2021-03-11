@@ -1,4 +1,4 @@
-# timeseries_lab
+# Timeseries lab
 Laboratorio de Series Temporales para Tinámica
 
 ## Objetivos
@@ -7,40 +7,39 @@ Laboratorio de Series Temporales para Tinámica
     3. Los participantes puedan relizar propuestas y ofertas al cliente con conocimiento práctico de las dimensiones y necesidades de un proyecto de Forecasting. 
 
 
-Como cualquier proyecto de Data Science, la creación del modelo empieza por entender los datos, pero dado que tenemos una componente temporal, necesitamos información adicional.
 ## Fase 1
 ### Creación y Análisis de Series Temporales
-    Creación de Series Temporales
-        Elección fuentes
-        Elección de Resolución temporal
-    Descomposición de Series
-        Tendencia
-        Estacionalidad
-        Ruido
-    Análisis de las Series
-        Tests (ACF & PACF, ADF, etc…)
-        Cross Correlations
-    Transformación de Series Temporales
-        Logaritmos, Diferencias y Normalizaciones
-        Medias Móviles
+   - Creación de Series Temporales
+       - Elección fuentes
+       - Elección de Resolución temporal
+   - Descomposición de Series
+       - Tendencia
+       - Estacionalidad
+       - Ruido
+   - Análisis de las Series
+       - Tests (ACF & PACF, ADF, etc…)
+       - Cross Correlations
+   - Transformación de Series Temporales
+        - Logaritmos, Diferencias y Normalizaciones
+        - Medias Móviles
 
 ## Fase 2
 ### Modelado de Series Temporales
-      Entrenamiento y Validación en Series Temporales
-       Walkforward Validations
-       Métricas de validación (MAE, MAPE, RMSE, MDA)
-   Modelos tradicionales 
-      ARIMAX (SARIMAX), prophet
-      Creación de variables step, impulso y lidiar con outliers
-    Modelado de Series Temporales con Redes Neuronales
-      LSTM
+   - Entrenamiento y Validación en Series Temporales
+       - Walkforward Validations
+       - Métricas de validación (MAE, MAPE, RMSE, MDA)
+   - Modelos tradicionales 
+      - ARIMAX (SARIMAX), prophet
+      - Creación de variables step, impulso y lidiar con outliers
+    - Modelado de Series Temporales con Redes Neuronales
+      - LSTM
 
 ## Fase 3
 ### Aplicabilidad de modelos
-    Teoría de los mercados eficientes
-    Simuladores
-      Importancia relativa de variables
-      Identificación de varianza base vs variable
+   - Teoría de los mercados eficientes
+   - Simuladores
+      - Importancia relativa de variables
+      - Identificación de varianza base vs variable
 
 
 
