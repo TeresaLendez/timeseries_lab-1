@@ -26,10 +26,10 @@ Como cualquier proyecto de Data Science, la creación del modelo empieza por ent
 
 ## Fase 2
 ### Modelado de Series Temporales
-    Entrenamiento y Validación en Series Temporales
-      Walkforward Validations
-      Métricas de validación (MAE, MAPE, RMSE, MDA)
-    Modelos tradicionales 
+      Entrenamiento y Validación en Series Temporales
+       Walkforward Validations
+       Métricas de validación (MAE, MAPE, RMSE, MDA)
+   Modelos tradicionales 
       ARIMAX (SARIMAX), prophet
       Creación de variables step, impulso y lidiar con outliers
     Modelado de Series Temporales con Redes Neuronales
@@ -44,7 +44,13 @@ Como cualquier proyecto de Data Science, la creación del modelo empieza por ent
 
 
 
-## Requierements
-    statsmodels == '0.10.1'
-    tensorflow == '1.15.0'
-    keras == '1.2.0'
+
+## Referencias 
+Las referencias se encuentran en orden creciente de dificultad. Hay más información basada en R que en Python actualmente, pero el código siempre es bastante replicable.
+1. [A Little Book of R For Time Series](https://buildmedia.readthedocs.org/media/pdf/a-little-book-of-r-for-time-series/latest/a-little-book-of-r-for-time-series.pdf) 
+Capítulo 2.
+2. [Forecasting: Practice and Principle de Rob Hyndman](https://otexts.com/fpp2/)  
+3. [Time Series Analysis and Its Applications with R Examples de Shumway y Stoffer](https://www.researchgate.net/publication/265365840_Time_Series_Analysis_and_Its_Applications_With_R_Examples) Este libro es muy técnico. Sirve principalmetne para los que quieran entrar en la matemtica de los modelos de series temporales.
+
+
+
