@@ -5,6 +5,10 @@ library(forecast)
 #vamos a visualizar la serie
 plot(lynx)
 
+#descomponemos la serie para ver sus factores independientemente
+plot(decompose(ts(lynx, frequency=12)))
+
+
 #para ajustar a un ARIMA vamos a llamar al Auto Arima
 forecast::auto.arima(lynx)
 
@@ -19,3 +23,4 @@ lines(fitted(mod),col='red')
 #Vamos a visualizar el forecast
 prediction=forecast(fc, h=10)
 plot(prediction)
+library(df_describe)
