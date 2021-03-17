@@ -54,9 +54,9 @@ Capítulo 2.
 3. [Time Series Analysis and Its Applications with R Examples de Shumway y Stoffer](https://www.researchgate.net/publication/265365840_Time_Series_Analysis_and_Its_Applications_With_R_Examples) Este libro es muy técnico. Sirve principalmetne para los que quieran entrar en la matemtica de los modelos de series temporales.
 
 ## Paquetes y Software
-    - [RStudio](https://rstudio.com/products/rstudio/) R va a ser útil para algunas secciones del laboratorio, RStudio es el mejor IDE para esto.
-    - [Anaconda](https://www.anaconda.com/products/individual) Con Anaconda podéis descargar Python. Si queréis entrar en el desarrollo de redes neuronales recomiendo que tengáis un enviroment en Python 3.6. 
-    - [Pycharm](https://www.jetbrains.com/es-es/pycharm/download/#section=windows) Mi selección de IDE, os lo recomiendo (Descargad el Community Edition)
-    - [Git Bash](https://git-scm.com/downloads) Para los que no tengan git y estén cómodos utilizando la línea de comandos. 
-    - [Git Extensions](http://gitextensions.github.io/) Versión Open Source de git para los que quieran una interfaz gráfica. 
+[RStudio](https://rstudio.com/products/rstudio/) R va a ser útil para algunas secciones del laboratorio, RStudio es el mejor IDE para esto.
+[Anaconda](https://www.anaconda.com/products/individual) Con Anaconda podéis descargar Python. Si queréis entrar en el desarrollo de redes neuronales recomiendo que tengáis un enviroment en Python 3.6. 
+[Pycharm](https://www.jetbrains.com/es-es/pycharm/download/#section=windows) Mi selección de IDE, os lo recomiendo (Descargad el Community Edition)
+[Git Bash](https://git-scm.com/downloads) Para los que no tengan git y estén cómodos utilizando la línea de comandos. 
+[Git Extensions](http://gitextensions.github.io/) Versión Open Source de git para los que quieran una interfaz gráfica. 
 
