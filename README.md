@@ -55,8 +55,12 @@ Capítulo 2.
 
 ## Paquetes y Software
 [RStudio](https://rstudio.com/products/rstudio/) R va a ser útil para algunas secciones del laboratorio, RStudio es el mejor IDE para esto.
+
 [Anaconda](https://www.anaconda.com/products/individual) Con Anaconda podéis descargar Python. Si queréis entrar en el desarrollo de redes neuronales recomiendo que tengáis un enviroment en Python 3.6. 
-[Pycharm](https://www.jetbrains.com/es-es/pycharm/download/#section=windows) Mi selección de IDE, os lo recomiendo (Descargad el Community Edition)
+
+[Pycharm](https://www.jetbrains.com/es-es/pycharm/download/#section=windows) Mi selección de IDE, os lo recomiendo (Descargad el Community Edition).
+
 [Git Bash](https://git-scm.com/downloads) Para los que no tengan git y estén cómodos utilizando la línea de comandos. 
+
 [Git Extensions](http://gitextensions.github.io/) Versión Open Source de git para los que quieran una interfaz gráfica. 
 
