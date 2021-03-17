@@ -29,14 +29,17 @@ Laboratorio de Series Temporales para Tinámica
        - Walkforward Validations
        - Métricas de validación (MAE, MAPE, RMSE, MDA)
    - Modelos tradicionales 
-      - ARIMAX (SARIMAX), prophet
-      - Creación de variables step, impulso y lidiar con outliers
-    - Modelado de Series Temporales con Redes Neuronales
-      - LSTM
+      - ARIMAX (SARIMAX), prophet, FFS
+      - Creación de variables regresoras, step e impulso
+  - Aplicabilidad de los Modelos
+      - Teoría de los mercados eficientes 
+
 
 ## Fase 3
-### Aplicabilidad de modelos
-   - Teoría de los mercados eficientes
+### Modelado Avanzado de Series Temporales
+   - Modelado de Series Temporales con Redes Neuronales
+      - LSTM
+  - Bayesian Time Series Forecasting
    - Simuladores
       - Importancia relativa de variables
       - Identificación de varianza base vs variable
