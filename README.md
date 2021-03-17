@@ -39,7 +39,6 @@ Laboratorio de Series Temporales para Tinámica
 ### Modelado Avanzado de Series Temporales
    - Modelado de Series Temporales con Redes Neuronales
       - LSTM
-  - Bayesian Time Series Forecasting
    - Simuladores
       - Importancia relativa de variables
       - Identificación de varianza base vs variable
